@@ -1,0 +1,175 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         257
+	Longest value:         7 characters
+	Most common values:    G000546 (30x)
+	                       S001195 (22x)
+	                       Z000018 (21x)
+	                       None (18x)
+	                       H001053 (15x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         268
+	Longest value:         35 characters
+	Most common values:    HON. SAM GRAVES (30x)
+	                       HON. JASON SMITH (22x)
+	                       HON. RYAN K. ZINKE (21x)
+	                       HON. VICKY HARTZLER (15x)
+	                       HON. MARC A. VEASEY (14x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (765x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (747x)
+	                       GENERAL EXPENDITURES (15x)
+	                       ADMIN AND OPS (1x)
+	                       NON - PERSONNEL (1x)
+	                       WOUNDED WARRIOR EXPENSES (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (765x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         67
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-03-22 (29x)
+	                       2017-03-21 (28x)
+	                       2017-03-27 (26x)
+	                       2017-03-09 (24x)
+	                       2017-02-16 (21x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (765x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         730
+	Longest value:         8 characters
+	Most common values:    E0481845 (4x)
+	                       E0498949 (4x)
+	                       E0478093 (3x)
+	                       908032 (3x)
+	                       E0493769 (3x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         318
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (291x)
+	                       ENTERPRISE RENT-A-CAR (34x)
+	                       ENTERPRISE RAC CO OF MONTANA/WYOMING LLC (16x)
+	                       TAG OKC INC (8x)
+	                       SCHWAB OLIVER (5x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         169
+	Smallest value:        2016-01-04
+	Largest value:         2017-03-17
+	Most common values:    2017-02-21 (31x)
+	                       2017-02-20 (31x)
+	                       2017-02-08 (28x)
+	                       2017-02-22 (26x)
+	                       2016-12-19 (21x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         171
+	Smallest value:        2016-01-06
+	Largest value:         2017-12-30
+	Most common values:    2017-02-24 (49x)
+	                       2017-01-18 (26x)
+	                       2017-02-10 (25x)
+	                       2017-02-23 (23x)
+	                       2017-01-19 (19x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         10 characters
+	Most common values:    CAR RENTAL (765x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         737
+	Smallest value:        50.25
+	Largest value:         3624
+	Sum:                   247999.11
+	Mean:                  324.181843
+	Median:                213.5
+	StDev:                 356.81036
+	Most common values:    107.25 (6x)
+	                       210.16 (4x)
+	                       66.32 (3x)
+	                       103.87 (3x)
+	                       181.53 (3x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2016
+	Largest value:         2017
+	Sum:                   1542698
+	Mean:                  2016.598693
+	Median:                2017
+	StDev:                 0.490484
+	Most common values:    2017 (458x)
+	                       2016 (307x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         318
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (291x)
+	                       ENTERPRISE RENT-A-CAR (34x)
+	                       ENTERPRISE RAC CO OF MONTANA/WYOMING LLC (16x)
+	                       TAG OKC INC (8x)
+	                       SCHWAB OLIVER (5x)
+
+Row count: 765
