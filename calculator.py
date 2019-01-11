@@ -6,9 +6,9 @@ def subtract (a,b):
 	return a-b
 def divide (a,b):
 	return a/b
-def square (a):
+def square(a):
 	return a**2
-def cudbe(a):
+def cube(a):
 	return a**3
 def square_n_times(number, n):
 	return number**n
@@ -21,5 +21,5 @@ y = square(2)
 z = cube(3)
 w = square_n_times(4,2)
 print(y)
-pint(z)
+print(z)
 print(w)
