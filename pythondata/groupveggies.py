@@ -1,6 +1,8 @@
 #Taurai and Jonathan
 
 import csv
+import json
+
 from pprint import pprint
 
   #Read vegetables.csv into a variable called vegetables.
@@ -26,3 +28,7 @@ pprint(vegetables_by_color)
 
 
   #Output vegetables_by_color into a json called vegetables_by_color.json.
+
+with open('vegetables_by_color.json', 'w') as f:
+    json.dump(vegetables_by_color, f, indent = 2)
+
